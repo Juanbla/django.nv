@@ -10,16 +10,6 @@
 # supported CodeQL languages.
 #
 name: "CodeQL"
-stages:
- - build
- - test
- - release
- - artefact_scanning 
- - preprod
- - integration
- - prod
-
-
 
 on:
   push:
