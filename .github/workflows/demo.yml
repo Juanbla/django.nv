@@ -25,4 +25,4 @@ jobs:
   prod:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "This is a deploy step"
+      - run: echo "This is a deploy steps"
